@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write("teste")
+st.title("Minha Página")
+st.write("Hello World")
